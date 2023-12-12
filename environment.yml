@@ -1,0 +1,9 @@
+name: ee-examples
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - earthengine-api
+  - geemap
+  - ipykernel
+prefix: C:\Users\rhamilton\AppData\Local\miniconda3\envs\ee-examples
